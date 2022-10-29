@@ -1,0 +1,16 @@
+{
+"name": "autoshib1688",
+"theme": "auto shib1688",
+"version": "2.3.2",
+"description": "auto shib1688 ทางเข้าเว็บไซต์พนันเว็บตรง สมาชิกเยอะ รับโบนัสเครดิตฟรี",
+"keywords": [
+"auto shib1688",
+"auto shib1688 เครดิตฟรี",
+"auto shib1688 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/autoshib1688",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
